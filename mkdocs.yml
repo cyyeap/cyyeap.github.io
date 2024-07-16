@@ -1,0 +1,5 @@
+site_name: Choon Yin's ____________
+theme:
+  name: material
+plugins:
+  - blog
