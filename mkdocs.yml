@@ -1,4 +1,5 @@
 site_name: Choon Yin's ____________
+site_url: https://cyyeap.github.io/
 theme:
   name: material
 plugins:
