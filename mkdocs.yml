@@ -56,3 +56,4 @@ plugins:
       lang: 
         - en
         - zh
+  - tags
