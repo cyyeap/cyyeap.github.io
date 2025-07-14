@@ -2,7 +2,9 @@
 layout: post
 title: Nested Express Step Functions
 date: 2021-10-12 14:58:52 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 ## History

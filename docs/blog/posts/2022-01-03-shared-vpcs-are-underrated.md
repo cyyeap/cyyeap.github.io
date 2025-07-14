@@ -2,7 +2,9 @@
 layout: post
 title: Shared VPCs are underrated
 date: 2022-01-03 09:44:52 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 AWS [launched VPC sharing][launch-blog] in January 2019, two years ago. It feels

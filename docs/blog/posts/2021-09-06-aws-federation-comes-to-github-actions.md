@@ -2,7 +2,9 @@
 layout: post
 title: AWS federation comes to GitHub Actions
 date: 2021-09-15 13:37:52 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 **At the time of writing, this functionality exists but has yet to be announced

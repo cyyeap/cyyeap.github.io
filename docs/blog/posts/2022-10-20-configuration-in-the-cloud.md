@@ -2,7 +2,9 @@
 layout: post
 title: Configuration in the cloud
 date: 2022-10-20 10:14:52 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 A couple of days ago, [_Announcing AWS Parameters and Secrets Lambda Extension_][aws-blog]

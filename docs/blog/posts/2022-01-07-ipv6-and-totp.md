@@ -2,7 +2,9 @@
 layout: post
 title: IPv6 and TOTP
 date: 2022-01-07 09:44:52 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 What's the silliest use for 281 trillion IP addresses that you can think of?

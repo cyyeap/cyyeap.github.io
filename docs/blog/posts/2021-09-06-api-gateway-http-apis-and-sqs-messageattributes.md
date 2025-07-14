@@ -2,7 +2,9 @@
 layout: post
 title: API Gateway HTTP APIs and SQS MessageAttributes
 date: 2021-09-06 18:37:52 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 A while ago [I asked on Twitter][tweet] if anyone knew how to knew how to set

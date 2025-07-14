@@ -2,7 +2,9 @@
 layout: post
 title: CloudFront-triggered S3 data event formats
 date: 2025-02-10 16:32:00 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 There are several ways that CloudFront can be configured with an S3 origin. There

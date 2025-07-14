@@ -2,7 +2,9 @@
 layout: post
 title:  AWS IAM needs aws:ResourceOrgID
 date:   2020-09-29 12:12:52 +1000
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 ## Update

@@ -2,7 +2,9 @@
 layout: post
 title:  Nitro Enclaves - First Impressions
 date:   2020-11-02 14:31:52 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 At the end of October, AWS [released][nitro-blog] Nitro Enclaves. My mental model of these is essentially a *secure* virtual machine within a virtual machine - the outer VM being an EC2 instance. The *secure* qualifier is to distinguish that the inner VM has many restrictions: by default it has no network access, no persistent disk, no access to processes running on the host and crucially, vice-versa: the host likewise doesn't have access to resources inside the enclave. All communication instead happens over [`vsock`][vsock] sockets.

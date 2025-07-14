@@ -2,7 +2,9 @@
 layout: post
 title: "Gotcha: always use ARNs for S3 SSE-KMS"
 date: 2024-06-05 12:36:00 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 Imagine you have a scenario represented in the following diagram: 

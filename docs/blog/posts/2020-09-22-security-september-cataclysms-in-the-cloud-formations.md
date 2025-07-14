@@ -2,7 +2,9 @@
 layout: post
 title: "Security September: Cataclysms in the Cloud Formations"
 date: 2020-09-22 11:37:52 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 [Security September: Cataclysms in the Cloud Formations][link] was a guest post on Ian Mckay's blog.

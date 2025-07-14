@@ -2,7 +2,9 @@
 layout: post
 title: CloudFront and Lambda function URLs
 date: 2022-10-17 10:08:52 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 In April 2022, AWS Lambda [announced the launch of function URLs][aws-blog] - a

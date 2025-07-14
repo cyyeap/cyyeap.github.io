@@ -2,7 +2,9 @@
 layout: post
 title: "AWS GWLB: Deep Packet Manipulation"
 date: 2022-01-20 11:53:52 +1100
-categories: blog
+categories: 
+  - AWS
+  - Security
 ---
 
 AWS [introduced Gateway Load Balancers][intro-blog] back in November 2020. A
