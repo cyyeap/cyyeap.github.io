@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 There are several ways that CloudFront can be configured with an S3 origin. There
 are functionality differences between them, but the focus in this blog post is
 how activity is represented in CloudTrail, specifically the differences in S3

@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 Say you find yourself doing silly things with AWS APIs on a lazy Sunday
 afternoon. And you are getting the following inexplicable error when using
 perfectly valid credentials:

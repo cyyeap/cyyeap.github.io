@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 A couple of months ago, Thai Duong wrote an [interesting post][proj-zero] about
 problems with the AWS Encryption SDK. Most of it goes way over my head, but my
 curiosity was piqued by the mention of reverse-engineering the format of the

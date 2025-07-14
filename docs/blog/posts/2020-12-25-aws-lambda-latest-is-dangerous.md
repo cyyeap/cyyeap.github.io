@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 AWS Lambda has supported [function versions][versioning] since October 2015, only
 a couple of months after the service itself was publicly launched. Versions are
 an optional feature - you can develop and use Lambda functions without versioning,

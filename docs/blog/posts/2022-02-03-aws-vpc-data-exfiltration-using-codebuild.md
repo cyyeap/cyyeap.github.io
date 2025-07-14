@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 **UPDATE**: This issue has been fixed. See the end of the article for timeline
 and details.
 

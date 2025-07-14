@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 AWS CloudWatch Logs supports automatic forwarding of logs to AWS Kinesis Data Streams
 and AWS Kinesis Data Firehose. These destinations are can even be in a different
 AWS account and region. This is very handy for aggregating logs from thousands

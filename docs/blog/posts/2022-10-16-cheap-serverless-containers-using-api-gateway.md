@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 Sometimes I need to run a long-lived app. In those cases I reach for AWS ECS
 Fargate instead of AWS Lambda. You can run a container on Fargate for as little 
 as $9/month, or $2.70/month if you're happy to roll the dice with Fargate Spot

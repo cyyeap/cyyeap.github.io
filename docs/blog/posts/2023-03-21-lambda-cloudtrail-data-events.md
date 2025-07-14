@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 Today I was experimenting with CloudTrail data events for Lambda invocations,
 because I learned that [as of 2021][eni-blog], these data events log the ENI ID
 used by a Lambda function invocation. For completeness, the event looks like this:

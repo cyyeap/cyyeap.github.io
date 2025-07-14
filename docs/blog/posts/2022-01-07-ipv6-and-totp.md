@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 What's the silliest use for 281 trillion IP addresses that you can think of?
 That's the question I asked myself when AWS [launched support][blog] for assigning 
 IPv6 prefixes to EC2 instances. 

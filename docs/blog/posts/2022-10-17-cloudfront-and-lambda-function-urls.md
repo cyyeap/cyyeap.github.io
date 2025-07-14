@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 In April 2022, AWS Lambda [announced the launch of function URLs][aws-blog] - a
 way to invoke websites powered by Lambda functions without needing API Gateway.
 A common complaint was the lack of support for custom domains: it only supported

@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 It's yet another blog. I'm not going to post super often. My Twitter feed is 
 probably more interesting - for a very generous definition of interesting.
 

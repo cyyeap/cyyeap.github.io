@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 **Update**: AWS now has an [open source implementation][aws-oss] of a Roles
 Anywhere `credential_process` provider - and it even supports PKCS#11. I'll 
 keep the following project online for historical purposes, but there's not

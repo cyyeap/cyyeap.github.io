@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 Last week AWS published a [blog post][aws-blog] advising that the `go1.x` Lambda
 runtime will be deprecated and people should migrate to `provided.al2`. I was 
 already using the newer runtime, but I also learned from the blog post that AWS

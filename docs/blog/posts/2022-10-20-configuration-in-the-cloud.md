@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 A couple of days ago, [_Announcing AWS Parameters and Secrets Lambda Extension_][aws-blog]
 appeared on the AWS What's New site. The general thrust of the motivation behind 
 this (providing an easier way to vend credentials securely to AWS Lambda functions)

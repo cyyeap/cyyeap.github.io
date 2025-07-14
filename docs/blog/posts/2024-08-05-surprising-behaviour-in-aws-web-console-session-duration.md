@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 Credentials for AWS IAM role sessions are short-lived. By default, they last for
 one hour. When calling `AssumeRole` you can request a different duration by 
 passing a value between `900` (15 minutes) and `43200` (12 hours) in the 

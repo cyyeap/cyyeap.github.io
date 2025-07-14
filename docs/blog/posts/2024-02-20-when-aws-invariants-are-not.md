@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 ## Update (14 March, 2024)
 
 The AWS Security Outreach team contacted me to say that they've heard this

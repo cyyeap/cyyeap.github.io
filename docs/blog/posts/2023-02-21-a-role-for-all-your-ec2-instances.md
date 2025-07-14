@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 **tl;dr: You can now pass an IAM role to every EC2 instance in your account + region.**
 
 On Feb 17th 2023, AWS Systems Manager released [Default Host Management Configuration][dhmc].

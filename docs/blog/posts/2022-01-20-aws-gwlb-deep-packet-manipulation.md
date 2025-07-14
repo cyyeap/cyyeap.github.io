@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 AWS [introduced Gateway Load Balancers][intro-blog] back in November 2020. A
 reasonably accurate tl;dr would be that they are like having highly available, 
 auto-scaling NAT instances. That intro blog post will explain them better than

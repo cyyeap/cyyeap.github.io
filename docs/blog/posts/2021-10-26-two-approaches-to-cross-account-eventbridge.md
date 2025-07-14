@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 Since [November 2020][aws-blog], EventBridge has supported two methods of creating
 cross-account event subscriptions. Both require a level of indirection in the 
 form of an "intermediary" bus in the subscriber's account. Here are examples of

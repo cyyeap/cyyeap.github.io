@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 The [CloudWatch embedded metric format (EMF)][emf-spec] is a convenient way to
 publish metrics to CloudWatch from your apps running in AWS - especially Lambda
 functions. You just need to emit logs in the right JSON format and CloudWatch _Logs_

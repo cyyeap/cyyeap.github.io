@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 GitHub Actions has supported using OIDC tokens for about 15 months now. It is
 a much better way of providing AWS credentials to workflows than creating IAM users
 and storing long-lived access keys in GitHub Actions secrets.

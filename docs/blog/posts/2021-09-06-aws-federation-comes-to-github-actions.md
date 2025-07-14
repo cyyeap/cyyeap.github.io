@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 **At the time of writing, this functionality exists but has yet to be announced
 or documented. It works, though!**
 

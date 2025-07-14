@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 It's long been considered "best practice" to avoid having IAM _users_ in AWS.
 Where possible IAM _roles_ are preferable as role session credentials are 
 short-lived. As far as I can tell, the only justification for AWS IAM users that 

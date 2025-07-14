@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 **UPDATE**: My dream came true - almost. See follow-up [post][follow-up].
 
 AWS re:Invent 2024 is fast approaching and there's usually a flurry of exciting

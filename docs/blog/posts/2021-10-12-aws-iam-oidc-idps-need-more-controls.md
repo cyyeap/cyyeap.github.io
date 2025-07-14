@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 ## Background primer
 
 In my post [_AWS federation comes to GitHub Actions_][previous-post] I wrote about 
