@@ -17,7 +17,8 @@ plugins:
       categories:
         - categories
   - blog: 
-      archive_date_format: MMMM yyyy 
+      archive: false
+      pagination: false
       post_date_format: full
       post_excerpt: optional
       post_readtime: true
