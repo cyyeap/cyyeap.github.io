@@ -1,7 +1,8 @@
 site_name: Aidan Steele's blog (usually about AWS)
 theme:
   name: material
-  features:
+  palette:
+    primary: white
     - navigation.footer
     - content.code.copy
 extra:
