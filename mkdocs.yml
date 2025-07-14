@@ -7,6 +7,8 @@ plugins:
       post_date_format: full
       post_excerpt: optional
       post_readtime: true
+      categories_name: Categories
+      categories_url_format: "category/{slug}"
   - search: 
       lang: 
         - en
