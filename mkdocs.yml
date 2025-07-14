@@ -44,6 +44,7 @@ plugins:
         - tags
   - blog: 
       blog_dir: .
+      pagination: true
       post_date_format: full
       post_excerpt: optional
       post_readtime: true
