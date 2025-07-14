@@ -21,6 +21,7 @@ plugins:
       categories:
         - categories
   - blog: 
+      blog_dir: .
       archive: false
       pagination: false
       post_date_format: full
