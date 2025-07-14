@@ -7,6 +7,8 @@ categories:
   - Security
 ---
 
+<!-- more -->
+
 Back in November last year, I [wished][prev-blog] for the ability to filter 
 CloudTrail data events by the requesting principal's ARN. Two days later, my wish
 was almost granted: CloudTrail launched the ability to filter on `userIdentity.arn`
