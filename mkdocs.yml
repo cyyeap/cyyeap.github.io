@@ -34,7 +34,7 @@ extra:
       link: https://github.com/aidansteele
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/__steele
-use_directory_urls: false
+#use_directory_urls: false
 plugins:
   - rss:
       match_path: blog/posts/.*
