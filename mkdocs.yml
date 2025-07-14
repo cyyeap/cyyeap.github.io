@@ -7,8 +7,10 @@ theme:
     - content.code.copy
 extra:
   social:
-    - icon: fontawesome/brands/mastodon 
-      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/brands/github 
+      link: https://github.com/aidansteele
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/__steele
 use_directory_urls: false
 plugins:
   - rss:
@@ -18,7 +20,6 @@ plugins:
       categories:
         - categories
   - blog: 
-      blog_dir: .
       archive: false
       pagination: false
       post_date_format: full
