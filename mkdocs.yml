@@ -6,16 +6,28 @@ theme:
     primary: white
   features:
     - content.code.copy
+    - content.tabs.link
     - navigation.footer
     - navigation.indexes
 markdown_extensions:
+  - footnotes
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - tables
 extra:
   social:
     - icon: fontawesome/brands/github 
