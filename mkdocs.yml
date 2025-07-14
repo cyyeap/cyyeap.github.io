@@ -1,10 +1,16 @@
-site_name: Choon Yin's ____________
+site_name: Aidan Steele's blog (usually about AWS)
 theme:
   name: material
+  features:
+    - navigation.footer
+  extra:
+  social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://fosstodon.org/@squidfunk
 use_directory_urls: false
 plugins:
   - rss:
-      match_path: blog/category/security/
+      match_path: blog/category/security/*
       date_from_meta:
         as_creation: date
       categories:
