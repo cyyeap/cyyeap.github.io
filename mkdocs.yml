@@ -3,6 +3,7 @@ theme:
   name: material
   palette:
     primary: white
+  features:
     - navigation.footer
     - content.code.copy
 extra:
