@@ -31,7 +31,7 @@ plugins:
       categories:
         - categories
   - blog: 
-      blog_dir: .
+      blog_toc: true
       archive: false
       pagination: false
       post_date_format: full
