@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CloudWatch EMF in Honeycomb
-date: 2021-11-22 17:23:52 +1100
+date: 2021-11-22T17:23:52
 categories: 
   - AWS
   - Security

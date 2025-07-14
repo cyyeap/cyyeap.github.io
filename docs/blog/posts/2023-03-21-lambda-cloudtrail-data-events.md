@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lambda CloudTrail data events
-date: 2023-03-21 17:03:00 +1100
+date: 2023-03-21T17:03:00
 categories: 
   - AWS
   - Security

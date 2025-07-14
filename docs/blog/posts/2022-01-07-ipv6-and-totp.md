@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IPv6 and TOTP
-date: 2022-01-07 09:44:52 +1100
+date: 2022-01-07T09:44:52
 categories: 
   - AWS
   - Security

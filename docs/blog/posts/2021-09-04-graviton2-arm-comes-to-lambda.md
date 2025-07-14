@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Graviton2: ARM comes to Lambda" 
-date: 2021-09-29 13:37:52 +1000
+date: 2021-09-29T13:37:52
 categories: 
   - AWS
   - Security

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Centralised logging: from CloudWatch to Kinesis Firehose"
-date: 2022-12-17 09:56:52 +1100
+date: 2022-12-17T09:56:52
 categories: 
   - AWS
   - Security

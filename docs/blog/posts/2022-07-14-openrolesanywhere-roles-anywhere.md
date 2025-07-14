@@ -1,7 +1,7 @@
 ---
 layout: post
 title: openrolesanywhere - an IAM Roles Anywhere client
-date: 2022-07-14 15:07:52 +1000
+date: 2022-07-14T15:07:52
 categories: 
   - AWS
   - Security

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS VPC data exfiltration using CodeBuild
-date: 2022-02-03 15:48:52 +1100
+date: 2022-02-03T15:48:52
 categories: 
   - AWS
   - Security

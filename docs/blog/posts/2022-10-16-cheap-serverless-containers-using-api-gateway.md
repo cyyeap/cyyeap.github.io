@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cheap serverless containers using API Gateway
-date: 2022-10-16 10:47:52 +1100
+date: 2022-10-16T10:47:52
 categories: 
   - AWS
   - Security

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS federation comes to GitHub Actions
-date: 2021-09-15 13:37:52 +1100
+date: 2021-09-15T13:37:52
 categories: 
   - AWS
   - Security

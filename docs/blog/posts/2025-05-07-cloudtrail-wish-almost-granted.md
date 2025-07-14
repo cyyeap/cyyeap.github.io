@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CloudTrail wish: almost granted"
-date: 2025-05-07 10:50:00 +1000
+date: 2025-05-07T10:50:00
 categories: 
   - AWS
   - Security

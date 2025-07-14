@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CloudFront-triggered S3 data event formats
-date: 2025-02-10 16:32:00 +1100
+date: 2025-02-10T16:32:00
 categories: 
   - AWS
   - Security

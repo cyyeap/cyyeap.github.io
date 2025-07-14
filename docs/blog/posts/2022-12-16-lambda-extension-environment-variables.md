@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lambda extension environment variables
-date: 2022-12-16 09:35:52 +1100
+date: 2022-12-16T09:35:52
 categories: 
   - AWS
   - Security

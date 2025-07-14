@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Security September: Cataclysms in the Cloud Formations"
-date: 2020-09-22 11:37:52 +1100
+date: 2020-09-22T11:37:52
 categories: 
   - AWS
   - Security

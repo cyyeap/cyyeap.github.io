@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS SigV4 caching
-date: 2021-10-24 16:49:52 +1100
+date: 2021-10-24T16:49:52
 categories: 
   - AWS
   - Security

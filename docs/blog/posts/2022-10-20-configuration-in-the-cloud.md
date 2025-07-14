@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configuration in the cloud
-date: 2022-10-20 10:14:52 +1100
+date: 2022-10-20T10:14:52
 categories: 
   - AWS
   - Security

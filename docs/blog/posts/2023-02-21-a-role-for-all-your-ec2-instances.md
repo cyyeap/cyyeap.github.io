@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A role for all your EC2 instances
-date: 2023-02-21 09:12:52 +1100
+date: 2023-02-21T09:12:52
 categories: 
   - AWS
   - Security
