@@ -45,8 +45,6 @@ plugins:
         - tags
   - blog: 
       blog_dir: .
-      archive: false
-      pagination: false
       post_date_format: full
       post_excerpt: optional
       post_readtime: true
