@@ -1,7 +1,7 @@
 ---
 layout: post
 title: cgo for ARM64 Lambda Functions
-date: 2021-10-18T10:05:52
+date: 2021-10-18T10:05:52+1100
 categories: 
   - AWS
   - Security
