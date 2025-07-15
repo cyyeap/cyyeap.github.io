@@ -1,0 +1,1 @@
+Here's my seventh or eighth attempt at a blog. It's mostly going to be my experimentation with using AWS (Amazon Web Services, not Aidan William Steele).
