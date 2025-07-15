@@ -101,7 +101,7 @@ plugins:
       blog_dir: blog
       post_url_format: "{date}/{file}"
       pagination: true
-      post_date_format: full
+      post_date_format: medium
       post_excerpt: optional
       post_readtime: true
       categories_name: Categories
