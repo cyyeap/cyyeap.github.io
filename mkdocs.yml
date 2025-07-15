@@ -32,6 +32,8 @@ theme:
     - content.code.copy
     - content.tabs.link
     - navigation.footer
+nav: 
+  - Blog: blog/index.md
 # Extensions
 markdown_extensions:
   - abbr
