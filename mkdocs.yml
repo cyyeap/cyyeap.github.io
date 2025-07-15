@@ -87,6 +87,8 @@ extra:
       link: https://github.com/aidansteele
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/__steele
+    - icon: fontawesome/solid/rss 
+      link: https://github.com/aidansteele
 extra_css:
   - stylesheets/extra.css
 use_directory_urls: false
