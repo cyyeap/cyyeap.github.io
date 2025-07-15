@@ -88,6 +88,7 @@ extra:
 extra_css:
   - stylesheets/extra.css
 use_directory_urls: false
+copyright: By Aidan W. Steele for Mumu, Lulu & Co.
 plugins:
   - rss:
       match_path: blog/posts/.*
