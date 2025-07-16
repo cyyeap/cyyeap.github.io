@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  AWS Lambda $LATEST is dangerous
-date:   2020-12-25 09:41:52 +1100
+date: 2020-12-25 09:41:52 +1100
 categories: blog
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cursory AWS KMS research
-date:   2020-11-30 09:11:52 +1100
+date: 2020-11-30 09:11:52 +1100
 categories: blog
 ---
 

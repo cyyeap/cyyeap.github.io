@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  AWS Access Key ID formats
-date:   2020-09-26 10:40:52 +1000
+date: 2020-09-26 10:40:52 +1000
 categories: blog
 ---
 

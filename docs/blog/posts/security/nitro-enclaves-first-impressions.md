@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Nitro Enclaves - First Impressions
-date:   2020-11-02 14:31:52 +1100
+date: 2020-11-02 14:31:52 +1100
 categories: blog
 ---
 
