@@ -2,7 +2,8 @@
 layout: post
 title: Deep dive into AWS CloudShell
 date: 2024-01-11T21:07:00
-categories: blog
+categories:
+  - AWS
 ---
 
 AWS CloudShell got a [new capability][whats-new] in January 2024: running Docker 

@@ -2,7 +2,8 @@
 layout: post
 title:  AWS Lambda $LATEST is dangerous
 date: 2020-12-24T22:41:52
-categories: blog
+categories:
+  - AWS
 ---
 
 AWS Lambda has supported [function versions][versioning] since October 2015, only

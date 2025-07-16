@@ -2,7 +2,8 @@
 layout: post
 title: Cheap serverless containers using API Gateway
 date: 2022-10-15T23:47:52
-categories: blog
+categories:
+  - AWS
 ---
 
 Sometimes I need to run a long-lived app. In those cases I reach for AWS ECS

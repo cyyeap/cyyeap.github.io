@@ -2,7 +2,8 @@
 layout: post
 title:  Yet another blog
 date: 2020-09-25T02:25:52
-categories: blog
+categories:
+  - AWS
 ---
 
 It's yet another blog. I'm not going to post super often. My Twitter feed is 

@@ -2,7 +2,8 @@
 layout: post
 title: "CloudTrail wish: almost granted"
 date: 2025-05-07T00:50:00
-categories: blog
+categories:
+  - AWS
 ---
 
 Back in November last year, I [wished][prev-blog] for the ability to filter 

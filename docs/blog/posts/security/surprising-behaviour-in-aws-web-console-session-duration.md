@@ -2,7 +2,8 @@
 layout: post
 title: Surprising behaviour in AWS web console session duration
 date: 2024-08-05T05:26:00
-categories: blog
+categories:
+  - AWS
 ---
 
 Credentials for AWS IAM role sessions are short-lived. By default, they last for

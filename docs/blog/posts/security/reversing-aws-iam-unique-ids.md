@@ -2,7 +2,8 @@
 layout: post
 title: Reversing AWS IAM unique IDs
 date: 2023-11-19T21:51:00
-categories: blog
+categories:
+  - AWS
 ---
 
 A few years ago, I [wrote][akia-blog] about determining AWS account IDs from AWS 

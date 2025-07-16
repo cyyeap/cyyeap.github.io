@@ -2,7 +2,8 @@
 layout: post
 title: cgo for ARM64 Lambda Functions
 date: 2021-10-17T23:05:52
-categories: blog
+categories:
+  - AWS
 ---
 
 In my post [_Graviton2: ARM comes to Lambda_][first-post] I showed that it is

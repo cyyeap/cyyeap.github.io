@@ -2,7 +2,8 @@
 layout: post
 title: No need for AWS IAM users
 date: 2021-11-06T06:23:52
-categories: blog
+categories:
+  - AWS
 ---
 
 It's long been considered "best practice" to avoid having IAM _users_ in AWS.

@@ -2,7 +2,8 @@
 layout: post
 title: Lambda extension environment variables
 date: 2022-12-15T22:35:52
-categories: blog
+categories:
+  - AWS
 ---
 
 This is really just some context for myself so I don't have to write code to

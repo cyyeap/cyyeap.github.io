@@ -2,7 +2,8 @@
 layout: post
 title: Two approaches to cross-account EventBridge
 date: 2021-10-29T00:37:52
-categories: blog
+categories:
+  - AWS
 ---
 
 Since [November 2020][aws-blog], EventBridge has supported two methods of creating

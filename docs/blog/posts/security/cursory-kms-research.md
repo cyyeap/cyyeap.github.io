@@ -2,7 +2,8 @@
 layout: post
 title:  Cursory AWS KMS research
 date: 2020-11-29T22:11:52
-categories: blog
+categories:
+  - AWS
 ---
 
 A couple of months ago, Thai Duong wrote an [interesting post][proj-zero] about

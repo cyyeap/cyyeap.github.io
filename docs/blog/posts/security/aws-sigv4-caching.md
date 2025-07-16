@@ -2,7 +2,8 @@
 layout: post
 title: AWS SigV4 caching
 date: 2021-10-24T05:49:52
-categories: blog
+categories:
+  - AWS
 ---
 
 Say you find yourself doing silly things with AWS APIs on a lazy Sunday

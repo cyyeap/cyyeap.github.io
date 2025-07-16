@@ -2,7 +2,8 @@
 layout: post
 title: AWS IAM OIDC IDPs need more controls
 date: 2021-10-12T03:58:52
-categories: blog
+categories:
+  - AWS
 ---
 
 ## Background primer

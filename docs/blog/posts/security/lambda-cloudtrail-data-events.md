@@ -2,7 +2,8 @@
 layout: post
 title: Lambda CloudTrail data events
 date: 2023-03-21T06:03:00
-categories: blog
+categories:
+  - AWS
 ---
 
 Today I was experimenting with CloudTrail data events for Lambda invocations,

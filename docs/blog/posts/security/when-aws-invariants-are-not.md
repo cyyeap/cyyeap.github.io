@@ -2,7 +2,8 @@
 layout: post
 title: When AWS invariants aren't [invariant]
 date: 2024-02-20T00:21:00
-categories: blog
+categories:
+  - AWS
 ---
 
 ## Update (14 March, 2024)

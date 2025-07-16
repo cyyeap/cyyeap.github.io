@@ -2,7 +2,8 @@
 layout: post
 title: Useful flags for Go Lambda functions
 date: 2023-08-02T04:04:00
-categories: blog
+categories:
+  - AWS
 ---
 
 Last week AWS published a [blog post][aws-blog] advising that the `go1.x` Lambda

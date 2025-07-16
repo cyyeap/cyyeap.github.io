@@ -2,7 +2,8 @@
 layout: post
 title: Improve GitHub Actions OIDC security posture with custom issuer
 date: 2023-01-11T03:30:52
-categories: blog
+categories:
+  - AWS
 ---
 
 GitHub Actions has supported using OIDC tokens for about 15 months now. It is

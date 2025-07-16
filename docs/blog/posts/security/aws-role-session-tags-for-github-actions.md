@@ -2,7 +2,8 @@
 layout: post
 title: AWS role session tags for GitHub Actions
 date: 2023-10-25T01:24:00
-categories: blog
+categories:
+  - AWS
 ---
 
 Back in 2021, I [requested][my-blog] that AWS add some kind of "claim-to-tag mapping"

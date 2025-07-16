@@ -2,7 +2,8 @@
 layout: post
 title:  AWS Access Key ID formats
 date: 2020-09-26T00:40:52
-categories: blog
+categories:
+  - AWS
 ---
 
 ## Experimentation

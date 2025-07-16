@@ -2,7 +2,8 @@
 layout: post
 title: A role for all your EC2 instances
 date: 2023-02-20T22:12:52
-categories: blog
+categories:
+  - AWS
 ---
 
 **tl;dr: You can now pass an IAM role to every EC2 instance in your account + region.**

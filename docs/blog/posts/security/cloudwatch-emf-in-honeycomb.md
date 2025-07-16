@@ -2,7 +2,8 @@
 layout: post
 title: CloudWatch EMF in Honeycomb
 date: 2021-11-22T06:23:52
-categories: blog
+categories:
+  - AWS
 ---
 
 The [CloudWatch embedded metric format (EMF)][emf-spec] is a convenient way to

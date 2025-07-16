@@ -2,7 +2,8 @@
 layout: post
 title: openrolesanywhere - an IAM Roles Anywhere client
 date: 2022-07-14T05:07:52
-categories: blog
+categories:
+  - AWS
 ---
 
 **Update**: AWS now has an [open source implementation][aws-oss] of a Roles
