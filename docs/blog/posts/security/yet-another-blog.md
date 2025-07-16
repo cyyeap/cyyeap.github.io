@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Yet another blog
-date: 2020-09-25 12:25:52 +1000
+date: 2020-09-25T02:25:52
 categories: blog
 ---
 

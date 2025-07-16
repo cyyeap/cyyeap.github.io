@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How ima.ge.cx works
-date: 2023-12-29 15:11:52 +1100
+date: 2023-12-29T04:11:52
 categories: blog
 ---
 

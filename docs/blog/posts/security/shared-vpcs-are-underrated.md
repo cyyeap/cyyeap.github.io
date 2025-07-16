@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shared VPCs are underrated
-date: 2022-01-03 09:44:52 +1100
+date: 2022-01-02T22:44:52
 categories: blog
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS role session tags for GitHub Actions
-date: 2023-10-25 12:24:00 +1100
+date: 2023-10-25T01:24:00
 categories: blog
 ---
 

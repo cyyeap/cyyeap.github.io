@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CloudTrail wishlist: filtering by principal ARN"
-date: 2024-11-09 14:57:00 +1100
+date: 2024-11-09T03:57:00
 categories: blog
 ---
 

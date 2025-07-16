@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No need for AWS IAM users
-date: 2021-11-06 17:23:52 +1100
+date: 2021-11-06T06:23:52
 categories: blog
 ---
 

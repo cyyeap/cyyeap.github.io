@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Useful flags for Go Lambda functions
-date: 2023-08-02 14:04:00 +1000
+date: 2023-08-02T04:04:00
 categories: blog
 ---
 

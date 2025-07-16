@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deep dive into AWS CloudShell
-date: 2024-01-12 08:07:00 +1100
+date: 2024-01-11T21:07:00
 categories: blog
 ---
 

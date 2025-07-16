@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When AWS invariants aren't [invariant]
-date: 2024-02-20 11:21:00 +1100
+date: 2024-02-20T00:21:00
 categories: blog
 ---
 

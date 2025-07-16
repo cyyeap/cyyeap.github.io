@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Improve GitHub Actions OIDC security posture with custom issuer
-date: 2023-01-11 14:30:52 +1100
+date: 2023-01-11T03:30:52
 categories: blog
 ---
 
