@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Two approaches to cross-account EventBridge
-date: 2021-10-29T11:37:52
-categories: 
-  - AWS
-  - Security
+date: 2021-10-29 11:37:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 Since [November 2020][aws-blog], EventBridge has supported two methods of creating
 cross-account event subscriptions. Both require a level of indirection in the 

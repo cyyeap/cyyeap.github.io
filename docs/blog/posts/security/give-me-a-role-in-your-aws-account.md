@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Give me a role in your AWS account 
-date: 2021-05-11T14:37:52
-categories: 
-  - AWS
-  - Security
+date: 2021-05-11 14:37:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 ## tl;dr
 

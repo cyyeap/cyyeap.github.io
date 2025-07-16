@@ -1,13 +1,9 @@
 ---
 layout: post
 title: CloudWatch EMF in Honeycomb
-date: 2021-11-22T17:23:52
-categories: 
-  - AWS
-  - Security
+date: 2021-11-22 17:23:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 The [CloudWatch embedded metric format (EMF)][emf-spec] is a convenient way to
 publish metrics to CloudWatch from your apps running in AWS - especially Lambda

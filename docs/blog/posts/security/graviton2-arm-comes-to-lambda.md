@@ -1,13 +1,9 @@
 ---
 layout: post
 title: "Graviton2: ARM comes to Lambda" 
-date: 2021-09-29T13:37:52
-categories: 
-  - AWS
-  - Security
+date: 2021-09-29 13:37:52 +1000
+categories: blog
 ---
-
-<!-- more -->
 
 Today, Amazon Web Services has unveiled [_AWS Lambda Functions Powered By AWS Graviton2 Processors_][release-link], 
 offering a 20% reduction in the GB-second price compared to their x86-powered

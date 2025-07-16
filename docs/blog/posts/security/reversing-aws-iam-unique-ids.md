@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Reversing AWS IAM unique IDs
-date: 2023-11-20T08:51:00
-categories: 
-  - AWS
-  - Security
+date: 2023-11-20 08:51:00 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 A few years ago, I [wrote][akia-blog] about determining AWS account IDs from AWS 
 access keys, i.e. those strings that begin with `AKIA` or `ASIA`. It's also 

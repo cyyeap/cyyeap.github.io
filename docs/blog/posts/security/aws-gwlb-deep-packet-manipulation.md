@@ -1,13 +1,9 @@
 ---
 layout: post
 title: "AWS GWLB: Deep Packet Manipulation"
-date: 2022-01-20T11:53:52
-categories: 
-  - AWS
-  - Security
+date: 2022-01-20 11:53:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 AWS [introduced Gateway Load Balancers][intro-blog] back in November 2020. A
 reasonably accurate tl;dr would be that they are like having highly available, 

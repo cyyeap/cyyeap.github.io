@@ -1,13 +1,9 @@
 ---
 layout: post
 title: CloudFront-triggered S3 data event formats
-date: 2025-02-10T16:32:00
-categories: 
-  - AWS
-  - Security
+date: 2025-02-10 16:32:00 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 There are several ways that CloudFront can be configured with an S3 origin. There
 are functionality differences between them, but the focus in this blog post is
@@ -19,7 +15,7 @@ data-level events for each CloudFront option. Those options in CloudFront are
    in 2022 and support all AWS regions, SSE-KMS-encrypted objects and PUT/DELETE
    HTTP verbs. 
 2. S3 origin with an Origin Access Identity (OAI) configuration. OAIs were 
-   launched in 2009([^1]) and prior to OACs were the only way to serve public from
+   launched in 2009(^1) and prior to OACs were the only way to serve public from
    an S3 bucket without also making the S3 bucket directly accessible to the 
    world.
 3. S3 origin with public access. This means making your bucket accessible to the
@@ -64,7 +60,7 @@ b) The `userIdentity` field looks like this for OAC vs OAI vs public access:
 
 The _format_ of the event makes most sense when using OAC, but it feels like a
 slight regression compared to using an OAI: there is no way to determine from
-CloudTrail _which_ OAC was used to access the bucket([^2]). Feature request for Amazon:
+CloudTrail _which_ OAC was used to access the bucket(^2). Feature request for Amazon:
 it would be great if the ARN of the OAC appeared here, ideally in the new-ish
 `userIdentity.inScopeOf.sourceArn` field. 
 
@@ -72,9 +68,9 @@ c) When using an OAC, the `tlsDetails` field is omitted entirely. We probably
 don't need this level of implementation detail anyway, but we can still confirm
 that HTTPS is used thanks to the `additionalEventData.CipherSuite` field.
 
-[^1]: I learned this thanks to [this][timeline] very detailed timeline.
+^1: I learned this thanks to [this][timeline] very detailed timeline.
 
-[^2]: You can determine which OAI was used by pasting the `userIdentity.principalId`
+^2: You can determine which OAI was used by pasting the `userIdentity.principalId`
 field (i.e. the one beginning `AIDA...`) into [my website][awsid].
 
 [gist]: https://gist.github.com/aidansteele/31d6055de2ec98e31807fdf96511b4c6

@@ -1,13 +1,9 @@
 ---
 layout: post
 title: No need for AWS IAM users
-date: 2021-11-06T17:23:52
-categories: 
-  - AWS
-  - Security
+date: 2021-11-06 17:23:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 It's long been considered "best practice" to avoid having IAM _users_ in AWS.
 Where possible IAM _roles_ are preferable as role session credentials are 

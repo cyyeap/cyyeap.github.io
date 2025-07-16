@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Lambda extension environment variables
-date: 2022-12-16T09:35:52
-categories: 
-  - AWS
-  - Security
+date: 2022-12-16 09:35:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 This is really just some context for myself so I don't have to write code to
 sanity-check myself each time. Here are the environment variables available to

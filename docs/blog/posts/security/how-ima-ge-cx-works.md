@@ -1,13 +1,9 @@
 ---
 layout: post
 title: How ima.ge.cx works
-date: 2023-12-29T15:11:52
-categories: 
-  - AWS
-  - Security
+date: 2023-12-29 15:11:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 This article has been in my drafts for 380 days. It's probably time I published it,
 before I forget even more details about how it works. ~A few~ 380+ days ago, I 

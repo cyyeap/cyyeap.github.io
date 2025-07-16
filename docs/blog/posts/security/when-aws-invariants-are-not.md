@@ -1,13 +1,9 @@
 ---
 layout: post
 title: When AWS invariants aren't [invariant]
-date: 2024-02-20T11:21:00
-categories: 
-  - AWS
-  - Security
+date: 2024-02-20 11:21:00 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 ## Update (14 March, 2024)
 

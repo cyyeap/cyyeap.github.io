@@ -1,13 +1,9 @@
 ---
 layout: post
 title: IPv6 and TOTP
-date: 2022-01-07T09:44:52
-categories: 
-  - AWS
-  - Security
+date: 2022-01-07 09:44:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 What's the silliest use for 281 trillion IP addresses that you can think of?
 That's the question I asked myself when AWS [launched support][blog] for assigning 

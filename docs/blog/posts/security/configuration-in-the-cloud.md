@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Configuration in the cloud
-date: 2022-10-20T10:14:52
-categories: 
-  - AWS
-  - Security
+date: 2022-10-20 10:14:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 A couple of days ago, [_Announcing AWS Parameters and Secrets Lambda Extension_][aws-blog]
 appeared on the AWS What's New site. The general thrust of the motivation behind 

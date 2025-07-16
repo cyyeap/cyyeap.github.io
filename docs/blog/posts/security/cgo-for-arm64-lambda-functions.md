@@ -1,13 +1,9 @@
 ---
 layout: post
 title: cgo for ARM64 Lambda Functions
-date: 2021-10-18T10:05:52+1100
-categories: 
-  - AWS
-  - Security
+date: 2021-10-18 10:05:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 In my post [_Graviton2: ARM comes to Lambda_][first-post] I showed that it is
 very easy to cross-compile Go code to run on ARM64 AWS Lambda functions. That's

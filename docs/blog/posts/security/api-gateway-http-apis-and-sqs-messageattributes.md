@@ -1,13 +1,9 @@
 ---
 layout: post
 title: API Gateway HTTP APIs and SQS MessageAttributes
-date: 2021-09-06T18:37:52
-categories: 
-  - AWS
-  - Security
+date: 2021-09-06 18:37:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 A while ago [I asked on Twitter][tweet] if anyone knew how to knew how to set
 message attributes when using AWS API Gateway (HTTP API flavour)'s integration

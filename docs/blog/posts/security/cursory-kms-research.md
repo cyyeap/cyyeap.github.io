@@ -1,13 +1,9 @@
 ---
 layout: post
 title:  Cursory AWS KMS research
-date: 2020-11-30T09:11:52
-categories: 
-  - AWS
-  - Security
+date:   2020-11-30 09:11:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 A couple of months ago, Thai Duong wrote an [interesting post][proj-zero] about
 problems with the AWS Encryption SDK. Most of it goes way over my head, but my

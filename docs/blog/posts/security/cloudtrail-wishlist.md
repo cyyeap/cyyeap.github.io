@@ -1,13 +1,9 @@
 ---
 layout: post
 title: "CloudTrail wishlist: filtering by principal ARN"
-date: 2024-11-09T14:57:00
-categories: 
-  - AWS
-  - Security
+date: 2024-11-09 14:57:00 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 **UPDATE**: My dream came true - almost. See follow-up [post][follow-up].
 

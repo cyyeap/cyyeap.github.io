@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Cheap serverless containers using API Gateway
-date: 2022-10-16T10:47:52
-categories: 
-  - AWS
-  - Security
+date: 2022-10-16 10:47:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 Sometimes I need to run a long-lived app. In those cases I reach for AWS ECS
 Fargate instead of AWS Lambda. You can run a container on Fargate for as little 

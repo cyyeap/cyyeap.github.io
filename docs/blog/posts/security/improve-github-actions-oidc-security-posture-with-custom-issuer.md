@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Improve GitHub Actions OIDC security posture with custom issuer
-date: 2023-01-11T14:30:52
-categories: 
-  - AWS
-  - Security
+date: 2023-01-11 14:30:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 GitHub Actions has supported using OIDC tokens for about 15 months now. It is
 a much better way of providing AWS credentials to workflows than creating IAM users

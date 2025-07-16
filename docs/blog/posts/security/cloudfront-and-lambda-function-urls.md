@@ -1,13 +1,9 @@
 ---
 layout: post
 title: CloudFront and Lambda function URLs
-date: 2022-10-17T10:08:52
-categories: 
-  - AWS
-  - Security
+date: 2022-10-17 10:08:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 In April 2022, AWS Lambda [announced the launch of function URLs][aws-blog] - a
 way to invoke websites powered by Lambda functions without needing API Gateway.

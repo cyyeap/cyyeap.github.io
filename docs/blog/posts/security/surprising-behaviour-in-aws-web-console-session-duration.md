@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Surprising behaviour in AWS web console session duration
-date: 2024-08-05T16:26:00
-categories: 
-  - AWS
-  - Security
+date: 2024-08-05 16:26:00 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 Credentials for AWS IAM role sessions are short-lived. By default, they last for
 one hour. When calling `AssumeRole` you can request a different duration by 

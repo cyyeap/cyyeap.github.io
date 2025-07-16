@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Useful flags for Go Lambda functions
-date: 2023-08-02T14:04:00
-categories: 
-  - AWS
-  - Security
+date: 2023-08-02 14:04:00 +1000
+categories: blog
 ---
-
-<!-- more -->
 
 Last week AWS published a [blog post][aws-blog] advising that the `go1.x` Lambda
 runtime will be deprecated and people should migrate to `provided.al2`. I was 

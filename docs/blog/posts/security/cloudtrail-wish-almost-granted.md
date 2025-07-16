@@ -1,13 +1,9 @@
 ---
 layout: post
 title: "CloudTrail wish: almost granted"
-date: 2025-05-07T10:50:00
-categories: 
-  - AWS
-  - Security
+date: 2025-05-07 10:50:00 +1000
+categories: blog
 ---
-
-<!-- more -->
 
 Back in November last year, I [wished][prev-blog] for the ability to filter 
 CloudTrail data events by the requesting principal's ARN. Two days later, my wish

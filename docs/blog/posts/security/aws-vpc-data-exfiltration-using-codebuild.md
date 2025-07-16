@@ -1,13 +1,9 @@
 ---
 layout: post
 title: AWS VPC data exfiltration using CodeBuild
-date: 2022-02-03T15:48:52
-categories: 
-  - AWS
-  - Security
+date: 2022-02-03 15:48:52 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 **UPDATE**: This issue has been fixed. See the end of the article for timeline
 and details.

@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Lambda CloudTrail data events
-date: 2023-03-21T17:03:00
-categories: 
-  - AWS
-  - Security
+date: 2023-03-21 17:03:00 +1100
+categories: blog
 ---
-
-<!-- more -->
 
 Today I was experimenting with CloudTrail data events for Lambda invocations,
 because I learned that [as of 2021][eni-blog], these data events log the ENI ID
