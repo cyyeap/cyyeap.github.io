@@ -1,0 +1,104 @@
+baseURL: https://cyyeap.github.io/
+languageCode: en-au
+title: Choonyin's Bits
+theme: PaperMod
+
+# Enable emoji support
+enableEmoji: true
+
+# Enable Git info (shows last modified date)
+enableGitInfo: true
+
+# Pagination
+pagination:
+  pagerSize: 10
+
+# Taxonomies
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+# Menu
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 50
+
+# PaperMod theme configuration
+params:
+  env: production
+  description: "Bits of code, travel stories, cultural musings, and life with three senior pets"
+  author: Choonyin Yeap
+
+  # Theme appearance
+  defaultTheme: auto # auto, light, dark
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  # Social links
+  socialIcons:
+    - name: github
+      url: "https://github.com/cyyeap"
+
+  # Search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# Outputs (needed for search)
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+# Markup configuration
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allow HTML in markdown
+  highlight:
+    noClasses: false
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    lineNumbersInTable: true
+    style: monokai
