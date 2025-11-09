@@ -17,7 +17,7 @@ Usually, it wasn't a concern, as often the accommodation would be within reach e
 
 It was a night of heavy rain, and the Grab driver dropped us in front of Babi Guling Golden. Luckily, both Lydia and I were prepared for the downpour with umbrellas in our bags. It was also the first time in a long time I was glad I was bringing a suitcase instead of a non-waterproof backpack. For the past few years, as long as I wasn't traveling to cold countries, I'd carry only a backpack, regardless of how long I was going.
 
-Also, interestingly enough, I genuinely couldn't remember a time when I arrived at an accommodation in heavy rain. Anyway, we looked like the family in the opening scene of _Crazy Rich Asians_, where Michelle Yeoh and co. reach the hotel in London completely soaked, even unmbrellas were deployed.
+Also, interestingly enough, I genuinely couldn't remember a time when I arrived at an accommodation in heavy rain. Anyway, we looked like the family in the opening scene of _Crazy Rich Asians_, where Michelle Yeoh and co. reach the hotel in London completely soaked, even umbrellas were deployed.
 
 As we arrived at the homestay, we thought it was definitely worth the 9.3 rating. Then as we're pretty hangry, we went to Warung Babi Guling Golden, and it's the best Babi Guling I've ever had in my life (okay, I've only had three so far). It was just ~$2.50 for a regular Babi Guling.
 
