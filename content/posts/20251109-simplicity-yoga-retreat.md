@@ -18,6 +18,6 @@ Usually, when my partner and I traveled to a country, we would only stay in one 
 
 Shortly after my return to Melbourne from Bali and after my resignation, my neighbour asked if I wanted to be a sound healing model (yay for being a model for the first time) for her student who had just taken a class she taught. I gladly accepted. I was asked to pick a card from a deck (I suspect they were Balinese blessing cards) on that day of being a model. The card I picked was Simplicity. I didn't think much of it—just thought, “cool.”
 
-Then, on the first day of the yoga retreat in Bali, I was asked to pick a card from a deck of Balinese blessing cards. My inner voice said it surely didn't matter, and I patiently waited while almost everyone had their turn. Guess what… the card I picked was again Simplicity. Embarrassingly, I didn't know the probability off the top of my head; after brushing up my statistics on demand, it's 2% chance.
+Then, on the first day of the yoga retreat in Bali, I was asked to pick a card from a deck of Balinese blessing cards. My inner voice said it surely didn't matter, and I patiently waited while almost everyone had their turn. Guess what… the card I picked was again Simplicity. Embarrassingly, I didn't know the probability off the top of my head; after brushing up my statistics on demand, it's 2% chance as there are 50 cards in each deck.
 
 The universe again reminds me that I need to embrace simplicity, so I'll end this post here to keep it simple. :)
