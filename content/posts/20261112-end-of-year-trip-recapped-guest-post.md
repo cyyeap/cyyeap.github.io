@@ -1,7 +1,10 @@
 ---
 date: '2026-01-12T22:37:10+11:00'
 draft: false
-title: 'Guest Post - End of the Year Trip by AWS'
+title: 'End of the Year Trip'
+tags: ["travel", "reflection", "guest post"]
+categories: ["travel"]
+author: "Aidan Steele"
 ---
 
 Guest post from my partner: 
