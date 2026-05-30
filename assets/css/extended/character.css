@@ -1,0 +1,202 @@
+/* =========================================================================
+   "The leafy spring cherry blossom tree" — 叶春樱
+   A little character layered over PaperMod: a sakura + leaf palette, a soft
+   literary serif for headings, and gentle touches throughout. Kept simple.
+   ========================================================================= */
+
+/* ---- Palette -------------------------------------------------------------
+   Warm paper light mode, sakura-rose accent, a quiet leaf green for nature. */
+:root {
+    --theme: rgb(251, 250, 247);   /* warm paper            */
+    --entry: rgb(255, 255, 255);
+    --primary: rgb(42, 39, 36);    /* warm near-black       */
+    --secondary: rgb(122, 115, 108);
+    --tertiary: rgb(224, 218, 210);
+    --content: rgb(51, 47, 43);
+    --border: rgb(236, 231, 224);
+    --code-bg: rgb(244, 239, 233);
+
+    --accent: rgb(194, 91, 120);       /* sakura rose       */
+    --accent-strong: rgb(173, 73, 102);
+    --accent-soft: rgb(247, 231, 236);
+    --leaf: rgb(95, 125, 86);          /* spring leaf       */
+}
+
+:root[data-theme="dark"] {
+    --theme: rgb(27, 26, 29);
+    --entry: rgb(37, 35, 39);
+    --primary: rgb(236, 232, 228);
+    --secondary: rgb(163, 156, 149);
+    --tertiary: rgb(63, 60, 68);
+    --content: rgb(214, 209, 203);
+    --border: rgb(52, 49, 58);
+    --code-bg: rgb(46, 44, 49);
+
+    --accent: rgb(232, 150, 171);
+    --accent-strong: rgb(240, 168, 187);
+    --accent-soft: rgb(58, 42, 48);
+    --leaf: rgb(155, 191, 141);
+}
+
+/* ---- Typography ----------------------------------------------------------
+   Body keeps the clean system stack; headings & branding get Fraunces, a
+   soft optical serif with real personality. */
+.logo a,
+.post-title,
+.entry-header h1,
+.entry-header h2,
+.first-entry .entry-header h1,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.home-info .entry-header h1,
+.page-header .title,
+.archive-year .archive-count,
+.terms-tags a {
+    font-family: "Fraunces", Georgia, "Times New Roman", serif;
+    font-optical-sizing: auto;
+    letter-spacing: -0.01em;
+}
+
+.post-title,
+.entry-header h1,
+.entry-header h2,
+.post-content h1,
+.post-content h2 {
+    font-weight: 600;
+}
+
+.post-content h2 {
+    margin-top: 1.6em;
+}
+
+/* A small leaf marker before article subheadings */
+.post-content h2::before {
+    content: "❧";
+    color: var(--leaf);
+    font-size: 0.7em;
+    margin-inline-end: 0.45em;
+    vertical-align: 0.12em;
+    opacity: 0.8;
+}
+
+/* ---- Header / branding --------------------------------------------------- */
+.logo a {
+    font-size: 25px;
+    color: var(--primary);
+}
+.logo a:hover {
+    color: var(--accent);
+}
+
+#menu a {
+    transition: color 0.2s ease;
+}
+#menu li a:hover,
+#menu .active {
+    color: var(--accent);
+}
+#menu .active::after {
+    background: var(--accent);
+}
+
+/* ---- Links inside content ------------------------------------------------ */
+.post-content a {
+    color: var(--accent);
+    box-shadow: 0 1px 0 var(--accent);
+    transition: box-shadow 0.2s ease, color 0.2s ease;
+}
+.post-content a:hover {
+    color: var(--accent-strong);
+    box-shadow: 0 2px 0 var(--accent-strong);
+}
+
+/* ---- Post cards ---------------------------------------------------------- */
+.post-entry {
+    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+.post-entry:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent);
+    box-shadow: 0 6px 22px -12px rgba(0, 0, 0, 0.35);
+}
+.post-entry:hover .entry-header h2 {
+    color: var(--accent);
+}
+.entry-header h2 {
+    transition: color 0.18s ease;
+}
+
+/* ---- Blockquotes — a sakura-tinted aside -------------------------------- */
+.post-content blockquote {
+    border-inline-start: 3px solid var(--accent);
+    background: var(--accent-soft);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    padding: 2px 18px;
+    margin: 24px 0;
+    font-style: italic;
+    color: var(--content);
+}
+
+/* ---- A decorative blossom divider --------------------------------------- */
+.post-content hr {
+    height: 1px;
+    background: var(--border);
+    overflow: visible;
+    margin: 42px 0;
+}
+.post-content hr::after {
+    content: "❀";
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+    transform: translateY(-0.7em);
+    padding: 0 14px;
+    background: var(--theme);
+    color: var(--accent);
+    font-size: 16px;
+}
+
+/* ---- Tags — soft pills --------------------------------------------------- */
+.post-tags a,
+.terms-tags a {
+    transition: color 0.18s ease, background 0.18s ease, border-color 0.18s ease;
+}
+.post-tags a:hover,
+.terms-tags a:hover {
+    color: var(--accent-strong);
+    background: var(--accent-soft);
+    border-color: var(--accent);
+}
+
+/* ---- Home greeting ------------------------------------------------------- */
+.home-info .entry-header h1 {
+    font-size: 2.4rem;
+    line-height: 1.2;
+}
+.home-info .entry-content {
+    color: var(--secondary);
+    font-size: 17px;
+}
+
+/* ---- Reading niceties ---------------------------------------------------- */
+.post-content {
+    line-height: 1.75;
+}
+
+::selection {
+    background: var(--accent-soft);
+    color: var(--accent-strong);
+}
+
+/* Buttons / pagination accent on hover */
+.pagination a:hover,
+.button:hover {
+    color: var(--accent-strong);
+}
+
+/* Top-scroll button & gentle focus rings in the accent hue */
+:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+}
