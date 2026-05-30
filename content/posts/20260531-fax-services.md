@@ -1,8 +1,8 @@
 ---
-date: '2025-11-13T20:20:18+08:00'
+date: '2026-05-30T20:20:18+08:00'
 draft: false
 title: 'Fax Service'
-tags: ["bali", "project", "reflection"]
+tags: ["project", "reflection"]
 categories: ["projects"]
 
 ---
@@ -15,7 +15,7 @@ One of many projects I've completed recently was an online fax service. Aidan an
 We created our first (small) business together.
 * We had over a few hundred faxes within 2 months of launch.
 * We broke even on the software running costs within 1 month, albeit the margin is very low, and we want to keep it that way, as I learnt a lot of people find it difficult to access good online fax services at a very low rate.
-* We added an over-engineered feature and made it the only fax service in the world on x402, which is a relatively new protocol, and have no regrets! A paid API with no API keys—how cool is that?
+* We added an over-engineered feature and made it the only fax service in the world on x402, which is a relatively new protocol, and have no regrets! A paid API with no API keys. How cool is that?
 * I had so much fun writing the Terms and Conditions.
 * Please don't support multi-lingual while the project is unstable; it burned too many tokens with many rewrites.
 * It's very easy to grow the number of followers on Instagram with some tricks.
@@ -30,4 +30,6 @@ Other projects I've completed were: a community library for my neighbours and fr
 
 While I was away, Aidan booked many flights with my friend David, and now they're bff. David even asked him to reschedule today's flight to be one week earlier so they could have a road trip together from LA to Seattle without me. Regretfully, Aidan valued his first-class flight ticket more than travelling with David. Anyway, Aidan and I will be heading to the African continent for the first time with David.
 
-In preparation for our African trip, we will have to be very vaccinated. This week, I had three different types of vaccines—Yellow Fever (oh, the white guy Aidan also had this too!), Typhoid, and Hep B. I learnt that I wasn't immune to Hep B, and that's very surprising because I swore to god I thought I had the Hep A and Hep B combination.s
+In preparation for our African trip, we will have to be very vaccinated. This week, I had three different types of vaccines—Yellow Fever (oh, the white guy Aidan also had this too!), Typhoid, and Hep B. I learnt that I wasn't immune to Hep B, and that's very surprising because I swore to god I thought I had the Hep A and Hep B combinations. 
+
+I'm looking forward to my me-time for the next week, and maybe I'll write more blog posts. 
