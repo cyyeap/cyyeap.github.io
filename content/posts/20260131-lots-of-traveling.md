@@ -7,7 +7,7 @@ categories: ["traveling"]
 
 ---
 
-It's been a while since I wrote the blog posts.It's been a while since I wrote the blog posts.
+It's been a while since I wrote the blog posts.
 
 I stopped writing them because it was hard when I was travelling. Honestly, it was just an excuse. This post is going to be a long one, as I'm a bit too lazy to break it down, so I'm just going to consolidate all the travel posts together.
 
