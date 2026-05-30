@@ -67,10 +67,12 @@ params:
   showtoc: true
   tocopen: false
 
-  # Social links
-  socialIcons:
-    - name: github
-      url: "https://github.com/cyyeap"
+  # Homepage greeting
+  homeInfoParams:
+    Title: "Bits and pieces 🌸"
+    Content: >
+      Code, projects, world exploration, and consciousness, roughly in order
+      of how well I understand them.
 
   # Search
   fuseOpts:
