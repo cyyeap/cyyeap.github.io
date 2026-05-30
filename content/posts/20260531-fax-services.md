@@ -9,10 +9,10 @@ categories: ["projects"]
 
 Aidan's arriving in LA in ~20 minutes as I'm typing this. It's his first time on Qantas First, thanks to work! (Business was more expensive than First, so naturally it made sense for him to book.) We're contemplating whether I should go with him this time, as his final destination will be Seattle, and we're thinking of moving there. He loves Seattle vibes, but I haven't been. Eventually I decided against the idea of going because Mulan and Moshi-Moshi, our dogs, are turning 16, and we have 3 big trips coming in the next few months.
 
-He's been asking me to write about my recent projects and what I've learnt. Recently, I've just returned from my 10+2 day Vipassana course, and quite a few people asked about my opinions about it. I'll write about it in another post, since I'm still forming my opinions and also reading the book "Altered Traits" in hope that it will help me clarify some of my questions around meditation. In short, I learnt a valuable skill. When I write the post, I'll be quantitative about the changes I have experienced. Stay tuned if you're interested!
+He's been asking me to write about my recent projects and what I've learnt. Recently, I've just returned from my 10+2 day Vipassana course, and quite a few people asked about my opinions about it. I'll write about it in another post, since I'm still forming my opinions and also reading the book "Altered Traits" in hope that it will help me clarify some of my questions around meditation. In short, I learnt a valuable skill. When I write the post, I'll try to be quantitative about the changes I have experienced aka providing some of my sleep metrics. Stay tuned if you're interested!
 
 One of many projects I've completed recently was an online fax service. Aidan and I are both very pleased with the results. Every fax we had for the first month was like a dopamine hit. Here are the milestones and what I learnt:
-We created our first (small) business together.
+* We created our first (small) business together.
 * We had over a few hundred faxes within 2 months of launch.
 * We broke even on the software running costs within 1 month, albeit the margin is very low, and we want to keep it that way, as I learnt a lot of people find it difficult to access good online fax services at a very low rate.
 * We added an over-engineered feature and made it the only fax service in the world on x402, which is a relatively new protocol, and have no regrets! A paid API with no API keys. How cool is that?
