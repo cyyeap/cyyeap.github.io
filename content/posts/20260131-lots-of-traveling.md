@@ -60,6 +60,8 @@ Chicago
 Vegas / Arizona
 * Really enjoyed being in the canyons.
 * Hated the vibe of Las Vegas.
+* We got to stay at the Venetian for free, by far, the biggest hotel room I've stayed in a western country (the biggest was in China!). 
+* We'd had to pay USD 30 to use the kettle at the Venetian's hotel room, so bring your own kettle to the USA if you're staying at an American hotel!
 * The best place I enjoyed in Vegas was the Writer's Block; I spent three hours there.
 * Vegas was super dry; I had to buy multiple bottles of moisturiser. The lip balms from British Airways were finally useful.
 
