@@ -50,7 +50,7 @@ The generated files will be in the `public/` directory.
 To create a new post:
 
 ```bash
-hugo new posts/20251131-Hiatus.md
+hugo new posts/20260605-sense-of-self-dissolved.md
 ```
 
 ## Project Structure
